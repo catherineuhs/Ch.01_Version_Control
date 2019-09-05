@@ -6,28 +6,73 @@ Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=
 
 '''
 import turtle
-yoda=turtle.Turtle()
-screen=turtle.Screen() # makes a screen object
-screen.bgcolor('black') # colors the screen
-yoda.pensize(3) # width of pen line
-yoda.speed(10)  # speed of drawing. Go fast to not waste time.
-yoda.color("#00FF00")
-yoda.circle(100)  #head
-yoda.penup()
-yoda.setpos(50,185) #right ear
-yoda.pendown()
-yoda.goto(200,210)
-yoda.goto(88,145)
-yoda.penup()
-yoda.setpos(-50,185)  #left ear
-yoda.pendown()
-yoda.goto(-200,210)
-yoda.goto(-88,145)
-yoda.penup()
-yoda.setpos(200,-300)
-yoda.pendown()
-yoda.pencolor('#00FF00')
-yoda.write('Sign Your Name Here',font=("Arial", 12, "normal"))
+mouseboi = turtle.Turtle()
+mouseboi.shape('turtle')
+
+mouseboi.begin_fill()
+mouseboi.color('grey')
+mouseboi.penup()
+mouseboi.goto(30,-150)
+mouseboi.pendown()
+mouseboi.circle(110)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.begin_fill()
+mouseboi.penup()
+mouseboi.goto(-80,20)
+mouseboi.pendown()
+mouseboi.circle(50)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(100,50)
+mouseboi.pendown()
+mouseboi.begin_fill()
+mouseboi.circle(50)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(95,55)
+mouseboi.pendown()
+mouseboi.begin_fill()
+mouseboi.color('pink')
+mouseboi.circle(20)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(-73,30)
+mouseboi.pendown()
+mouseboi.begin_fill()
+mouseboi.color('pink')
+mouseboi.circle(20)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(-27,0)
+mouseboi.pendown()
+mouseboi.begin_fill()
+mouseboi.color('black')
+mouseboi.circle(8)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(65,0)
+mouseboi.pendown()
+mouseboi.begin_fill()
+mouseboi.color('black')
+mouseboi.circle(8)
+mouseboi.end_fill()
+mouseboi.penup()
+
+mouseboi.goto(65,-100)
+mouseboi.pendown()
+mouseboi.backward(90)
+mouseboi.forward(50)
+mouseboi.penup()
+
+mouseboi.goto(200,200)
+
 
 
 turtle.exitonclick() #Keeps pycharm window open
