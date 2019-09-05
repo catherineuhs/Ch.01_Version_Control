@@ -78,23 +78,15 @@ Each student has 10 lines of code to play with!
 
 
 ------------------Student 08------------------
-ME
-
-
-
 This is the testing branch
 Catherine Clifford
 I have biology first period.
-
-
 attempt 2
 making a change
 fun fact
 currently adding more comments about myself
-
 attempt 3
 aksjdfhkjsahf
-
 ------------------Student 09------------------
 
 
