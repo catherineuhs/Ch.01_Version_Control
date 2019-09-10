@@ -9,6 +9,7 @@ import turtle
 mouseboi = turtle.Turtle()
 mouseboi.shape('turtle')
 
+mouseboi.speed(15)
 mouseboi.begin_fill()
 mouseboi.color('grey')
 mouseboi.penup()
@@ -72,7 +73,9 @@ mouseboi.forward(50)
 mouseboi.penup()
 
 mouseboi.goto(200,200)
+mouseboi.pendown()
 
-
+mouseboi.write('Catherine Clifford',font=("Arial", 12, "normal"))
 
 turtle.exitonclick() #Keeps pycharm window open
+#Nhawasherecreeperawman
