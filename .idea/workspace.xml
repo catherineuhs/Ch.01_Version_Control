@@ -12,8 +12,8 @@
     <session id="-2014431333">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.36" value="1" />
@@ -22,7 +22,7 @@
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -142,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -414,7 +414,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="312" y="23" width="1296" height="948" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2698039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -532,10 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Ch.03_Input_Output/3.3_Grading.py">
+    <entry file="file://$PROJECT_DIR$/../Ch.03_Input_Output/3.1_Temperature.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Ch.03_Input_Output/3.1_Temperature.py">
+    <entry file="file://$PROJECT_DIR$/../Ch.03_Input_Output/3.3_Grading.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Ch.03_Input_Output/3.0_Jedi_Training.py">
